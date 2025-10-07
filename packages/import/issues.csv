@@ -1,0 +1,11 @@
+Title,Description,Team,Project,Priority
+SCRM-33: Операторский бот Telegram,"Каркас бота: /start, /mode, авторизация оператора",StealthCRM,avtomatizaciya-lidov-production-74120c97cd09,3
+SCRM-33: Уведомления при stage=""Информация собрана"","Webhook из n8n → DM оператору",StealthCRM,avtomatizaciya-lidov-production-74120c97cd09,2
+SCRM-33: /merge объединение клиентов,"Валидации, запись в client_merges",StealthCRM,avtomatizaciya-lidov-production-74120c97cd09,2
+SCRM-33: Обработка текст/voice,"Whisper, вложения, лог в messages_history",StealthCRM,avtomatizaciya-lidov-production-74120c97cd09,3
+SCRM-33: Таблица operator_actions,"DDL + запись действий оператора",StealthCRM,avtomatizaciya-lidov-production-74120c97cd09,2
+SCRM-34: Алгоритм слотов,"Учёт графика мастеров и занятости",StealthCRM,avtomatizaciya-lidov-production-74120c97cd09,3
+SCRM-34: Проверка пересечений,"Валидации в appointments",StealthCRM,avtomatizaciya-lidov-production-74120c97cd09,2
+SCRM-34: Предложение 5–7 слотов клиенту,"Формат и UX сообщения",StealthCRM,avtomatizaciya-lidov-production-74120c97cd09,3
+SCRM-34: Создание записи,"INSERT appointments + update appeals.stage",StealthCRM,avtomatizaciya-lidov-production-74120c97cd09,2
+SCRM-34: Уведомления о записи,"Клиент/оператор, напоминания",StealthCRM,avtomatizaciya-lidov-production-74120c97cd09,3
